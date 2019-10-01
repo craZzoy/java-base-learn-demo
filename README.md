@@ -1,2 +1,2 @@
-# java-base-learn-demo
-java基础学习demo
+# java-base-demo
+java学习demo
