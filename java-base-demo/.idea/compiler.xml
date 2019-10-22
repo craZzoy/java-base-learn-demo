@@ -6,14 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="common-interview" />
+        <module name="virtual-machine-demo" />
         <module name="design-patterns-demo" />
+        <module name="concorrent-demo" />
         <module name="lession1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="common-interview" target="1.8" />
+      <module name="concorrent-demo" target="1.8" />
       <module name="design-patterns-demo" target="1.8" />
       <module name="java-base-demo" target="1.8" />
       <module name="lession1" target="1.8" />
+      <module name="virtual-machine-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,17 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/stream/Stream.java" line="520" />
-    <bookmark url="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Arrays.java" line="1386" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="03d3d345-c404-4e76-88d1-3ceea26a7db7" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/lession1/target/" />
-    <ignored path="$PROJECT_DIR$/design-patterns-demo/target/" />
+    <list default="true" id="03d3d345-c404-4e76-88d1-3ceea26a7db7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-interview/common-interview.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-interview/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-interview/src/main/java/com/algotithm/RecursiveDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/concorrent-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/DaemonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/InterruptedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/JoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/PriorityDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/SuspendDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/SynchronizedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/ThreadGroupDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/ThreadStatusDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/ThreadStopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/VolatileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/WaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/ConditionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/CountdownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/FailLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/ReadWriteLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/ReenterLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/SemaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ScheduledThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt2/StackTraceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtual-machine-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtual-machine-demo/src/main/java/com/test/FinalizeEscapeGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtual-machine-demo/src/main/java/com/test/GcDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtual-machine-demo/src/main/java/com/test/InternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtual-machine-demo/src/main/java/com/test/OOMDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtual-machine-demo/virtual-machine-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/observer.uml" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/observer.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt2/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt2/StringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt4/stream/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt4/stream/People.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt4/stream/StreamSeniorOperationDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt4/stream/StreamSeniorOperationDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,143 +61,8 @@
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Observer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/Observer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ObserverOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/ObserverOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ObserverTwo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/ObserverTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="observer.uml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/observer.uml">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.pattern.observer</OriginalElement>
-              <nodes>
-                <node x="92.5" y="0.0">com.pattern.observer.Observer</node>
-                <node x="157.0" y="83.0">com.pattern.observer.ObserverTwo</node>
-                <node x="0.0" y="244.0">com.pattern.observer.RandomNumberGenerator</node>
-                <node x="0.0" y="322.0">com.pattern.observer.Main</node>
-                <node x="28.5" y="161.0">com.pattern.observer.NumberGenerator</node>
-                <node x="0.0" y="83.0">com.pattern.observer.ObserverOne</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.pattern.observer.RandomNumberGenerator" target="com.pattern.observer.NumberGenerator">
-                  <point x="0.0" y="-16.5" />
-                  <point x="0.0" y="16.5" />
-                </edge>
-                <edge source="com.pattern.observer.ObserverOne" target="com.pattern.observer.Observer">
-                  <point x="0.0" y="-16.5" />
-                  <point x="68.5" y="58.0" />
-                  <point x="119.75" y="58.0" />
-                  <point x="-27.25" y="16.5" />
-                </edge>
-                <edge source="com.pattern.observer.ObserverTwo" target="com.pattern.observer.Observer">
-                  <point x="0.0" y="-16.5" />
-                  <point x="225.5" y="58.0" />
-                  <point x="174.25" y="58.0" />
-                  <point x="27.25" y="16.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-313.5" y="113.0" />
-              <SelectedNodes>
-                <node>com.pattern.observer.ObserverOne</node>
-              </SelectedNodes>
-              <Categories />
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClonableDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt2/ClonableDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt2/StringDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-447">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/NumberGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomNumberGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/RandomNumberGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-              <folding>
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FavoritesManager">
+    <favorites_list name="java-base-demo" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -173,433 +73,23 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Builder</find>
-      <find>valueOf</find>
-      <find>lockInterruptibly</find>
-      <find>invokeSpecial</find>
-      <find>invokespecial</find>
-      <find>invoke</find>
-      <find>invokes</find>
-      <find>invokesp</find>
-      <find>resolved</find>
-      <find>sorted</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt2/pk1/reuseDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt2/pk1/PkgTestDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt2/TestDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt2/StringDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt2/InnerClassDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt2/ClonableDemo.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt2/EnumDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt2/IntegerDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt2/SnapshotDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt2/FinalDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/chart3/generic/ClassCastDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt3/generic/ClassCastDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt3/generic/GenericParameterTypeDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt3/generic/GenericWildcardsTypeDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt3/generic/TypeInferDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt3/method/MethodArgumentsDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt3/method/MethodReturnTypeDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/FunctionInterfaceDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/pom.xml" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt3/generic/QuestionAndAnswer.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt3/generic/GenericTypeInfoDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/PredicateDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/ActionDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/FunctionDesignDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/PredicateDesignDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt4/stream/StreamDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/SupplierDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/ConsumerDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/FunctionDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/SupplierDesignDemo.java" />
-        <option value="$PROJECT_DIR$/lession1/src/main/java/charpt4/stream/StreamSeniorOperationDemo.java" />
-        <option value="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/Observer.java" />
-        <option value="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/NumberGenerator.java" />
-        <option value="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/ObserverOne.java" />
-        <option value="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/ObserverTwo.java" />
-        <option value="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/Main.java" />
-        <option value="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/RandomNumberGenerator.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="lession1" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="org.springframework:spring-core:5.1.3.RELEASE" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="lession1" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="java-base-demo" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource ProjectPane="true" />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stream" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lession1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lession1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lession1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lession1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lession1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="charpt2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-base-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lession1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="charpt2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StringDemo.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
-  </component>
+  <component name="ProjectId" id="1RpkKdrMfSDu8XuJ0YemQvx4NwW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Observable&#9;PSI&#9;JAVA://java.util.Observable&#10;Observer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/util/Observer.class&#10;lis&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/List.java&#10;List&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Arr&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Array&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Arrays.java&#10;Integer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Integer.java&#10;Inte&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Integer.java&#10;Collec&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collection.java&#10;Call&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/concurrent/Callable.java&#10;Predi&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Predicate.java&#10;Function&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Function.java&#10;Consu&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Consumer.java&#10;MethodHandle&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandle&#10;Method&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/lang/reflect/Method.class&#10;InvokeDynamic&#9;PSI&#9;JAVA://java.lang.invoke.InvokeDynamic&#10;System&#9;PSI&#9;JAVA://java.lang.System&#10;Supplier&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Supplier.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;FunctionInter&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/FunctionalInterface.java&#10;Stream&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/stream/Stream.java&#10;Runna&#9;PSI&#9;JAVA://java.lang.Runnable&#10;Collection&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collection.java&#10;Collector&#9;PSI&#9;JAVA://java.util.stream.Collector&#10;FunctionIn&#9;PSI&#9;JAVA://java.lang.FunctionalInterface&#10;Arraylist&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;SortedSe&#9;PSI&#9;JAVA://java.util.SortedSet&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Consumer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Consumer.java&#10;Float&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Float.java&#10;Char&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Character.java&#10;Short&#9;PSI&#9;JAVA://java.lang.Short&#10;Colle&#9;PSI&#9;JAVA://java.util.Collection&#10;biC&#9;PSI&#9;JAVA://java.util.function.BiConsumer&#10;BigInteger&#9;PSI&#9;JAVA://java.math.BigInteger&#10;UnmodifiableCollection&#9;PSI&#9;JAVA://java.util.Collections.UnmodifiableCollection&#10;Enum&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Enum.java&#10;OutputS&#9;PSI&#9;JAVA://java.io.OutputStream&#10;OutPutStream&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/io/DataOutputStream.java&#10;Clone&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Cloneable.java&#10;Col&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collections.java&#10;Builder&#9;PSI&#9;JAVA://java.util.stream.DoubleStream.Builder&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;EventListener&#9;PSI&#9;JAVA://java.util.EventListener&#10;Cloneable&#9;PSI&#9;JAVA://java.lang.Cloneable&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;FileSystem&#9;PSI&#9;JAVA://java.io.FileSystem&#10;String&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/lang/String.class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.38613862" />
-    <property name="SearchEverywhereHistoryKey" value="lis&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/List.java&#10;List&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Arr&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Array&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Arrays.java&#10;Integer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Integer.java&#10;Inte&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Integer.java&#10;Collec&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collection.java&#10;Call&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/concurrent/Callable.java&#10;Predi&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Predicate.java&#10;Function&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Function.java&#10;Consu&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Consumer.java&#10;MethodHandle&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandle&#10;Method&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/lang/reflect/Method.class&#10;InvokeDynamic&#9;PSI&#9;JAVA://java.lang.invoke.InvokeDynamic&#10;System&#9;PSI&#9;JAVA://java.lang.System&#10;Supplier&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Supplier.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;FunctionInter&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/FunctionalInterface.java&#10;Stream&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/stream/Stream.java&#10;Runna&#9;PSI&#9;JAVA://java.lang.Runnable&#10;Collection&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collection.java&#10;Collector&#9;PSI&#9;JAVA://java.util.stream.Collector&#10;FunctionIn&#9;PSI&#9;JAVA://java.lang.FunctionalInterface&#10;Arraylist&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;SortedSe&#9;PSI&#9;JAVA://java.util.SortedSet&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Consumer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Consumer.java&#10;Float&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Float.java&#10;Char&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Character.java&#10;Short&#9;PSI&#9;JAVA://java.lang.Short&#10;Colle&#9;PSI&#9;JAVA://java.util.Collection&#10;biC&#9;PSI&#9;JAVA://java.util.function.BiConsumer&#10;BigInteger&#9;PSI&#9;JAVA://java.math.BigInteger&#10;UnmodifiableCollection&#9;PSI&#9;JAVA://java.util.Collections.UnmodifiableCollection&#10;Enum&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Enum.java&#10;OutputS&#9;PSI&#9;JAVA://java.io.OutputStream&#10;OutPutStream&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/io/DataOutputStream.java&#10;Clone&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Cloneable.java&#10;Col&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collections.java&#10;Builder&#9;PSI&#9;JAVA://java.util.stream.DoubleStream.Builder&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;EventListener&#9;PSI&#9;JAVA://java.util.EventListener&#10;Cloneable&#9;PSI&#9;JAVA://java.lang.Cloneable&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;FileSystem&#9;PSI&#9;JAVA://java.io.FileSystem&#10;String&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/lang/String.class" />
     <property name="settings.editor.selected.configurable" value="debugger.stepping" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -625,337 +115,158 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration default="false" name="FunctionDesignDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="charpt4.functional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="charpt4.functional.FunctionDesignDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="lession1" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="PredicateDesignDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="charpt4.functional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="charpt4.functional.PredicateDesignDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="lession1" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="charpt4.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="charpt4.stream.StreamDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="lession1" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="StreamSeniorOperationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="charpt4.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="charpt4.stream.StreamSeniorOperationDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="lession1" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.pattern.observer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.pattern.observer.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="design-patterns-demo" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
+  <component name="RunManager" selected="Application.CountdownLatchDemo">
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.concurrent.ConditionDemo" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountdownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.concurrent.CountdownLatchDemo" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOMDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.7" />
+      <option name="MAIN_CLASS_NAME" value="com.test.OOMDemo" />
+      <module name="virtual-machine-demo" />
+      <option name="VM_PARAMETERS" value="-XX:MaxDirectMemorySize=10M" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.concurrent.ReadWriteLockDemo" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algotithm.RecursiveDemo" />
+      <module name="common-interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algotithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduledThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.threadpool.ScheduledThreadPoolDemo" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.concurrent.SemaphoreDemo" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuspendDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.base.SuspendDemo" />
+      <module name="concorrent-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
@@ -964,81 +275,16 @@
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
       <setting name="depsClasspath" value="false" />
-      <method />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java-base-demo" />
-      <envs />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -1046,114 +292,88 @@
       <option name="passParentEnvs" value="true" />
       <option name="workingDirectory" />
       <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list />
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <envs />
-      <method />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FunctionDesignDemo" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PredicateDesignDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StreamDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.StreamSeniorOperationDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+    <list>
+      <item itemvalue="Application.RecursiveDemo" />
+      <item itemvalue="Application.OOMDemo" />
+      <item itemvalue="Application.SuspendDemo" />
+      <item itemvalue="Application.ScheduledThreadPoolDemo" />
+      <item itemvalue="Application.ConditionDemo" />
+      <item itemvalue="Application.SemaphoreDemo" />
+      <item itemvalue="Application.ReadWriteLockDemo" />
+      <item itemvalue="Application.CountdownLatchDemo" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="Application.StreamSeniorOperationDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.StreamDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PredicateDesignDemo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FunctionDesignDemo" />
+      <list>
+        <item itemvalue="Application.CountdownLatchDemo" />
+        <item itemvalue="Application.ReadWriteLockDemo" />
+        <item itemvalue="Application.SemaphoreDemo" />
+        <item itemvalue="Application.ConditionDemo" />
+        <item itemvalue="Application.ScheduledThreadPoolDemo" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -1169,12 +389,16 @@
       <workItem from="1566304754110" duration="70800000" />
       <workItem from="1569313552708" duration="6681000" />
       <workItem from="1569392119715" duration="44000" />
-      <workItem from="1569933637448" duration="2863000" />
+      <workItem from="1569933637448" duration="6407000" />
+      <workItem from="1569941581571" duration="416000" />
+      <workItem from="1570371363905" duration="29341000" />
+      <workItem from="1570711995210" duration="2759000" />
+      <workItem from="1570933489188" duration="5629000" />
+      <workItem from="1570964129419" duration="33723000" />
+      <workItem from="1571316309504" duration="7235000" />
+      <workItem from="1571403839288" duration="22400000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82856000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1185,606 +409,29 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
-    <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24473976" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26024362" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25160256" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="17" />
-    </breakpoint-manager>
-    <watches-manager />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/BinaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="47" column="64" lean-forward="false" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="1246" column="32" lean-forward="true" selection-start-line="1246" selection-start-column="32" selection-end-line="1246" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="2991" column="7" lean-forward="true" selection-start-line="2991" selection-start-column="7" selection-end-line="2991" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="1232" column="40" lean-forward="false" selection-start-line="1232" selection-start-column="37" selection-end-line="1232" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/IntSummaryStatistics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-337">
-          <caret line="43" column="39" lean-forward="false" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/stream/DoubleStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="452" column="14" lean-forward="false" selection-start-line="452" selection-start-column="14" selection-end-line="452" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/stream/DoublePipeline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="395" column="46" lean-forward="false" selection-start-line="395" selection-start-column="44" selection-end-line="395" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/stream/Collector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="191" column="38" lean-forward="false" selection-start-line="191" selection-start-column="26" selection-end-line="191" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Spliterators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="928" column="103" lean-forward="false" selection-start-line="928" selection-start-column="95" selection-end-line="928" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Optional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2975">
-          <caret line="155" column="7" lean-forward="false" selection-start-line="155" selection-start-column="5" selection-end-line="155" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123025">
-          <caret line="5010" column="36" lean-forward="false" selection-start-line="5010" selection-start-column="36" selection-end-line="5010" selection-end-column="36" />
-          <folding>
-            <element signature="e#179525#179526#0" expanded="false" />
-            <element signature="e#179566#179567#0" expanded="false" />
-            <element signature="e#223144#223145#0" expanded="false" />
-            <element signature="e#223197#223198#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1825">
-          <caret line="101" column="22" lean-forward="false" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20475">
-          <caret line="865" column="9" lean-forward="false" selection-start-line="865" selection-start-column="9" selection-end-line="865" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13800">
-          <caret line="580" column="28" lean-forward="false" selection-start-line="580" selection-start-column="15" selection-end-line="580" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/ActionDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt2/pk1/reuseDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt2/pk1/PkgTestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt2/FinalDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt2/EnumDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt2/InnerClassDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt2/IntegerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt2/SnapshotDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt2/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt3/generic/GenericTypeInfoDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/ConsumerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/PredicateDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/FunctionInterfaceDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/SupplierDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/SupplierDesignDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="44" column="15" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/FunctionDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt4/stream/StreamDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/PredicateDesignDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/FunctionDesignDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/stream/Collectors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="228" column="29" lean-forward="false" selection-start-line="228" selection-start-column="29" selection-end-line="228" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7075">
-          <caret line="306" column="12" lean-forward="false" selection-start-line="306" selection-start-column="12" selection-end-line="306" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/BiConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="44" column="17" lean-forward="false" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt4/stream/StreamSeniorOperationDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="102" column="6" lean-forward="false" selection-start-line="102" selection-start-column="6" selection-end-line="102" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns-demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="788">
-          <caret line="183" column="30" lean-forward="false" selection-start-line="183" selection-start-column="22" selection-end-line="183" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.pattern.observer.Observer">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.pattern.observer.Observer</OriginalElement>
-          <nodes>
-            <node x="0.0" y="0.0">com.pattern.observer.Observer</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-406.0" y="-166.0" />
-          <SelectedNodes>
-            <node>com.pattern.observer.Observer</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/projects/learn_projects/gupaocodepersonal/github-syn/2019/java-base-demo/design-patterns-demo/src/main/java/com/pattern/observer">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="700.5" y="422.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/NumberGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/ObserverOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/ObserverTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/RandomNumberGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-          <folding>
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.pattern.observer">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.pattern.observer</OriginalElement>
-          <nodes>
-            <node x="" y="">com.pattern.observer.Observer</node>
-            <node x="" y="">com.pattern.observer.ObserverTwo</node>
-            <node x="" y="">com.pattern.observer.RandomNumberGenerator</node>
-            <node x="" y="">com.pattern.observer.Main</node>
-            <node x="" y="">com.pattern.observer.NumberGenerator</node>
-            <node x="" y="">com.pattern.observer.ObserverOne</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="147.0" y="177.5" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/observer.uml">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.pattern.observer</OriginalElement>
-          <nodes>
-            <node x="92.5" y="0.0">com.pattern.observer.Observer</node>
-            <node x="157.0" y="83.0">com.pattern.observer.ObserverTwo</node>
-            <node x="0.0" y="244.0">com.pattern.observer.RandomNumberGenerator</node>
-            <node x="0.0" y="322.0">com.pattern.observer.Main</node>
-            <node x="28.5" y="161.0">com.pattern.observer.NumberGenerator</node>
-            <node x="0.0" y="83.0">com.pattern.observer.ObserverOne</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.pattern.observer.RandomNumberGenerator" target="com.pattern.observer.NumberGenerator">
-              <point x="0.0" y="-16.5" />
-              <point x="0.0" y="16.5" />
-            </edge>
-            <edge source="com.pattern.observer.ObserverOne" target="com.pattern.observer.Observer">
-              <point x="0.0" y="-16.5" />
-              <point x="68.5" y="58.0" />
-              <point x="119.75" y="58.0" />
-              <point x="-27.25" y="16.5" />
-            </edge>
-            <edge source="com.pattern.observer.ObserverTwo" target="com.pattern.observer.Observer">
-              <point x="0.0" y="-16.5" />
-              <point x="225.5" y="58.0" />
-              <point x="174.25" y="58.0" />
-              <point x="27.25" y="16.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-313.5" y="113.0" />
-          <SelectedNodes>
-            <node>com.pattern.observer.ObserverOne</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt2/ClonableDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lession1/src/main/java/charpt2/StringDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-447">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>lession1</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.38613862" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_base_demo$SynchronizedDemo.ic" NAME="SynchronizedDemo Coverage Results" MODIFIED="1571236850691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.base.*</FILTER>
+    </SUITE>
   </component>
 </project>
