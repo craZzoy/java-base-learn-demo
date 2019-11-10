@@ -4,18 +4,19 @@ public class SuspendDemo {
     private static final Object obj = new Object();
 
     public static void main(String[] args) throws InterruptedException {
-        /*Thread t1 = new Thread(new BadRunnable());
-        Thread t2 = new Thread(new BadRunnable());
+        BadRunnable badRunnable = new BadRunnable();
+        Thread t1 = new Thread(badRunnable);
+        Thread t2 = new Thread(badRunnable);
         t1.start();
         Thread.sleep(2000);
         t2.start();
         t1.resume();
-        //Thread.sleep(2000);
+        Thread.sleep(500);
         t2.resume();
         t1.join();
-        t2.join();*/
+        t2.join();
 
-        GoodResume t1 = new GoodResume();
+        /*GoodResume t1 = new GoodResume();
         GoodResume t2 = new GoodResume();
         t1.start();
         t2.start();
@@ -27,7 +28,7 @@ public class SuspendDemo {
         Thread.sleep(1000);
         System.out.println("resume thread");
         t2.resumeMe();
-        t1.resumeMe();
+        t1.resumeMe();*/
     }
 
     public static class BadRunnable implements Runnable{

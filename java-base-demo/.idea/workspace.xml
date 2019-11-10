@@ -2,49 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03d3d345-c404-4e76-88d1-3ceea26a7db7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-interview/common-interview.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-interview/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-interview/src/main/java/com/algotithm/RecursiveDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/concorrent-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/DaemonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/InterruptedDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/JoinDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/PriorityDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/SuspendDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/SynchronizedDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/ThreadGroupDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/ThreadStatusDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/ThreadStopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/VolatileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/WaitDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/ConditionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/CountdownLatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/FailLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/ReadWriteLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/ReenterLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/SemaphoreDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ScheduledThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt2/StackTraceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/virtual-machine-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/virtual-machine-demo/src/main/java/com/test/FinalizeEscapeGC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/virtual-machine-demo/src/main/java/com/test/GcDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/virtual-machine-demo/src/main/java/com/test/InternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/virtual-machine-demo/src/main/java/com/test/OOMDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/virtual-machine-demo/virtual-machine-demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/SecurityManagerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/CyclicBarrierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/LockSupportDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ExtendThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/RejectThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ThreadFactoryDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/observer.uml" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/observer.uml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt2/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt2/StringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt4/stream/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt4/stream/People.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt4/stream/StreamSeniorOperationDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt4/stream/StreamSeniorOperationDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/SuspendDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/SuspendDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/FailLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/FailLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/SuspendDemo$BadRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/SuspendDemo$BadRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/SuspendDemo$GoodResume.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/SuspendDemo$GoodResume.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/SuspendDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/SuspendDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/FailLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/FailLockDemo.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +51,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="Observable&#9;PSI&#9;JAVA://java.util.Observable&#10;Observer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/util/Observer.class&#10;lis&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/List.java&#10;List&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Arr&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Array&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Arrays.java&#10;Integer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Integer.java&#10;Inte&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Integer.java&#10;Collec&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collection.java&#10;Call&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/concurrent/Callable.java&#10;Predi&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Predicate.java&#10;Function&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Function.java&#10;Consu&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Consumer.java&#10;MethodHandle&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandle&#10;Method&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/lang/reflect/Method.class&#10;InvokeDynamic&#9;PSI&#9;JAVA://java.lang.invoke.InvokeDynamic&#10;System&#9;PSI&#9;JAVA://java.lang.System&#10;Supplier&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Supplier.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;FunctionInter&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/FunctionalInterface.java&#10;Stream&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/stream/Stream.java&#10;Runna&#9;PSI&#9;JAVA://java.lang.Runnable&#10;Collection&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collection.java&#10;Collector&#9;PSI&#9;JAVA://java.util.stream.Collector&#10;FunctionIn&#9;PSI&#9;JAVA://java.lang.FunctionalInterface&#10;Arraylist&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;SortedSe&#9;PSI&#9;JAVA://java.util.SortedSet&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Consumer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Consumer.java&#10;Float&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Float.java&#10;Char&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Character.java&#10;Short&#9;PSI&#9;JAVA://java.lang.Short&#10;Colle&#9;PSI&#9;JAVA://java.util.Collection&#10;biC&#9;PSI&#9;JAVA://java.util.function.BiConsumer&#10;BigInteger&#9;PSI&#9;JAVA://java.math.BigInteger&#10;UnmodifiableCollection&#9;PSI&#9;JAVA://java.util.Collections.UnmodifiableCollection&#10;Enum&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Enum.java&#10;OutputS&#9;PSI&#9;JAVA://java.io.OutputStream&#10;OutPutStream&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/io/DataOutputStream.java&#10;Clone&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Cloneable.java&#10;Col&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collections.java&#10;Builder&#9;PSI&#9;JAVA://java.util.stream.DoubleStream.Builder&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;EventListener&#9;PSI&#9;JAVA://java.util.EventListener&#10;Cloneable&#9;PSI&#9;JAVA://java.lang.Cloneable&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;FileSystem&#9;PSI&#9;JAVA://java.io.FileSystem&#10;String&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/lang/String.class" />
+    <property name="SearchEverywhereHistoryKey" value="Thread&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;ThreadPoolEx&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;Observable&#9;PSI&#9;JAVA://java.util.Observable&#10;Observer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/util/Observer.class&#10;lis&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/List.java&#10;List&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Arr&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Array&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Arrays.java&#10;Integer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Integer.java&#10;Inte&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Integer.java&#10;Collec&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collection.java&#10;Call&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/concurrent/Callable.java&#10;Predi&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Predicate.java&#10;Function&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Function.java&#10;Consu&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Consumer.java&#10;MethodHandle&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandle&#10;Method&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/lang/reflect/Method.class&#10;InvokeDynamic&#9;PSI&#9;JAVA://java.lang.invoke.InvokeDynamic&#10;System&#9;PSI&#9;JAVA://java.lang.System&#10;Supplier&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Supplier.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;FunctionInter&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/FunctionalInterface.java&#10;Stream&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/stream/Stream.java&#10;Runna&#9;PSI&#9;JAVA://java.lang.Runnable&#10;Collection&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collection.java&#10;Collector&#9;PSI&#9;JAVA://java.util.stream.Collector&#10;FunctionIn&#9;PSI&#9;JAVA://java.lang.FunctionalInterface&#10;Arraylist&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;SortedSe&#9;PSI&#9;JAVA://java.util.SortedSet&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Consumer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Consumer.java&#10;Float&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Float.java&#10;Char&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Character.java&#10;Short&#9;PSI&#9;JAVA://java.lang.Short&#10;Colle&#9;PSI&#9;JAVA://java.util.Collection&#10;biC&#9;PSI&#9;JAVA://java.util.function.BiConsumer&#10;BigInteger&#9;PSI&#9;JAVA://java.math.BigInteger&#10;UnmodifiableCollection&#9;PSI&#9;JAVA://java.util.Collections.UnmodifiableCollection&#10;Enum&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Enum.java&#10;OutputS&#9;PSI&#9;JAVA://java.io.OutputStream&#10;OutPutStream&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/io/DataOutputStream.java&#10;Clone&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Cloneable.java&#10;Col&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collections.java&#10;Builder&#9;PSI&#9;JAVA://java.util.stream.DoubleStream.Builder&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;EventListener&#9;PSI&#9;JAVA://java.util.EventListener&#10;Cloneable&#9;PSI&#9;JAVA://java.lang.Cloneable&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer" />
@@ -115,20 +85,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountdownLatchDemo">
+  <component name="RunManager" selected="Application.ExtendThreadPool">
     <configuration default="true" type="Applet">
+      <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.concurrent.ConditionDemo" />
+    <configuration name="ExtendThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.threadpool.ExtendThreadPool" />
       <module name="concorrent-demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.concurrent.*" />
+          <option name="PATTERN" value="com.threadpool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountdownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.concurrent.CountdownLatchDemo" />
+    <configuration name="FailLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.concurrent.FailLockDemo" />
       <module name="concorrent-demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -165,20 +137,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.concurrent.ReadWriteLockDemo" />
-      <module name="concorrent-demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.concurrent.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RecursiveDemo" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algotithm.RecursiveDemo" />
       <module name="common-interview" />
@@ -193,27 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScheduledThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.threadpool.ScheduledThreadPoolDemo" />
+    <configuration name="RejectThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.threadpool.RejectThreadPoolDemo" />
       <module name="concorrent-demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.threadpool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.concurrent.SemaphoreDemo" />
-      <module name="concorrent-demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.concurrent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,6 +171,34 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadFactoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.threadpool.ThreadFactoryDemo" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.threadpool.ThreadPoolDemo" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.threadpool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,6 +251,7 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -320,6 +293,7 @@
     </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -346,22 +320,22 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.RecursiveDemo" />
       <item itemvalue="Application.OOMDemo" />
+      <item itemvalue="Application.RecursiveDemo" />
       <item itemvalue="Application.SuspendDemo" />
-      <item itemvalue="Application.ScheduledThreadPoolDemo" />
-      <item itemvalue="Application.ConditionDemo" />
-      <item itemvalue="Application.SemaphoreDemo" />
-      <item itemvalue="Application.ReadWriteLockDemo" />
-      <item itemvalue="Application.CountdownLatchDemo" />
+      <item itemvalue="Application.FailLockDemo" />
+      <item itemvalue="Application.ThreadPoolDemo" />
+      <item itemvalue="Application.RejectThreadPoolDemo" />
+      <item itemvalue="Application.ThreadFactoryDemo" />
+      <item itemvalue="Application.ExtendThreadPool" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountdownLatchDemo" />
-        <item itemvalue="Application.ReadWriteLockDemo" />
-        <item itemvalue="Application.SemaphoreDemo" />
-        <item itemvalue="Application.ConditionDemo" />
-        <item itemvalue="Application.ScheduledThreadPoolDemo" />
+        <item itemvalue="Application.ExtendThreadPool" />
+        <item itemvalue="Application.ThreadFactoryDemo" />
+        <item itemvalue="Application.RejectThreadPoolDemo" />
+        <item itemvalue="Application.ThreadPoolDemo" />
+        <item itemvalue="Application.FailLockDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +370,16 @@
       <workItem from="1570933489188" duration="5629000" />
       <workItem from="1570964129419" duration="33723000" />
       <workItem from="1571316309504" duration="7235000" />
-      <workItem from="1571403839288" duration="22400000" />
+      <workItem from="1571403839288" duration="28161000" />
+      <workItem from="1572061360639" duration="595000" />
+      <workItem from="1572353103046" duration="3504000" />
+      <workItem from="1572675615102" duration="630000" />
+      <workItem from="1572861939387" duration="846000" />
+      <workItem from="1572866146199" duration="5420000" />
+      <workItem from="1572916244931" duration="4014000" />
+      <workItem from="1573046217256" duration="1300000" />
+      <workItem from="1573121873315" duration="8560000" />
+      <workItem from="1573353559121" duration="302000" />
     </task>
     <servers />
   </component>
